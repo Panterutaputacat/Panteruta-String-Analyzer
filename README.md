@@ -1,2 +1,2 @@
 # Panteruta-String-Analyzer
-Analyze strings using Panteruta String Analyzer. This program supports strings up to 255 characters, and it shows the ASCII, HEX, Decimal, and binary of each character in the string. 
+Analyze strings using Panteruta String Analyzer. This program takes a string and a data type as a parameter, and then it shows the ASCII, HEX, Decimal, octal or binary of each character in the string. 
