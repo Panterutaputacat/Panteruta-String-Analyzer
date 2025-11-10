@@ -6,8 +6,9 @@
 #define HEX 2
 #define OCTAL 3
 #define ALL_TYPES 4
-char string[255];
+
 void analyze(char* string, int type);
+
 
 int main(int argc, char *argv[]) {
 
